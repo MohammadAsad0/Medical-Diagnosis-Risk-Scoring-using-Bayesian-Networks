@@ -7,11 +7,11 @@ I have implemented Bayesian Network for medical diagnosis particularly Heart dis
 
 To execute these files, simply clone them and execute them on Jupyter or Colab IDE.
 
-Dataset links:
-Heart: https://archive.ics.uci.edu/dataset/45/heart+disease
+Dataset links:\
+Heart: https://archive.ics.uci.edu/dataset/45/heart+disease \
 Diabetes: https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.csv
 
-Colab Notebook links:
+Colab Notebook links:\
 Heart Binary Bayesian Network: https://colab.research.google.com/drive/1-J_gBqzW5vs3VASpfvnSBMY5fIEmFPTa?usp=sharing
 
 Diabetes Binary Bayesian Network: https://colab.research.google.com/drive/1k-B3OoUr0jANCv1c3wSxvZS0tVO5G8TZ?usp=sharing
